@@ -15,7 +15,10 @@ Desenvolvido um pequeno app que:
 
 ## 📸 Resultado
 
-*(Adicionar um print do app aqui futuramente!)*
+<div align="center">
+<img src="https://github.com/user-attachments/assets/ab0df306-abae-4f8e-9c57-0644c5e1961a" width="200" />
+<img src="https://github.com/user-attachments/assets/273dcc73-d3a3-451b-99ac-caa8f7081d38" width="200" />
+</div>
 
 ## 🚀 Como rodar o projeto
 
